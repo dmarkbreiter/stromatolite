@@ -1,5 +1,5 @@
 $(function(){
-    $('#stromatolite').okzoom({
+    $('.stromatolite').okzoom({
       width: 200,
       height: 200,
       border:"1px solid black",
