@@ -1,13 +1,14 @@
-img {
-    max-width: 50%;
+.strom {
+    width: 100%;
     height: auto;
+    display: inline-block;
+    position: relative;
   }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  .strom img{
+    display:block;
+    max-width: 100%;
+    height:auto;
+    z-index: 0;
   }
 
 .img-fluid {
