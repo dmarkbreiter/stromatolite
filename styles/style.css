@@ -1,16 +1,3 @@
-.strom {
-    width: 100%;
-    height: auto;
-    display: inline-block;
-    position: relative;
-  }
-  .strom img{
-    display:block;
-    max-width: 100%;
-    height:auto;
-    z-index: 0;
-  }
-
 .img-fluid {
   max-width: 100%;
   height: auto;
