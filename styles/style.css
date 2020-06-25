@@ -9,3 +9,8 @@ img {
     margin-right: auto;
     width: 50%;
   }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
